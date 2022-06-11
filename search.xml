@@ -3,10 +3,28 @@
   <entry>
     <title>Treasure The World</title>
     <url>/2021/12/21/Treasure-The-World/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>在一个人在睡醒的午后<br>站在透着明媚阳光的窗前<br>让清风吹过微笑着的脸<br>迷恋的眼眸间<br>倒映出外面唯美的世界  </p>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>在一个人在睡醒的午后<br>站在透着明媚阳光的窗前 </p>
+<span id="more"></span> 
+<p>让清风吹过微笑着的脸<br>迷恋的眼眸间<br>倒映出外面唯美的世界  </p>
 <p>是一片广阔无边的天边<br>在这伴着微凉的季节<br>没有过多的语言<br>却只在心里默默地感谢<br>感谢着有我们同在的世界<br>感谢着阳光明媚的白天<br>感谢着温馨安静的黑夜<br>感谢着远处的星光照亮了双眼<br>感谢着天阶的月亮解开的心结  </p>
 <p>从容的心情是穿越了记忆匆匆流走的光年<br>映照着彼岸每一张幸福的笑脸<br>停留在这被祝福的宁静之夜<br>看着虫儿天空中飞舞还有雨滴轻声奏乐<br>让动人的乐章带过巍峨的山间<br>越过丰收的麦田<br>飞过嬉戏的海边<br>停在独自撑伞的雨街<br>此时的天空更了解<br>幸福着每一个走过的季节   </p>
 <p>所有的温暖都赠予无条件<br>所有的幸福都给予每一天<br>一直相信着在这个珍爱的世界<br>有些事情会直到永远</p>
 ]]></content>
+  </entry>
+  <entry>
+    <title>加密文章</title>
+    <url>/2021/12/22/%E5%8A%A0%E5%AF%86%E6%96%87%E7%AB%A0%E6%B5%8B%E8%AF%95/</url>
+    <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
+  <script id="hbeData" type="hbeData" data-hmacdigest="095771996cff9bc89f6ccaee08c0204b5690a67733f8e173197cff50ceb6598d">4630436162ade97ba2718b7d0c4b3b630ef8b034c35893a7afa4c54a5752d90eba191a593f89497fdfca691efaf72d5caa0c664d8e7a85bd833fac72ade59ddbf66b4bdec75a2ed1e83f57bcb279b78c8202c7ce8d3eb34051070935a62ccbf9be563b576fcb19a6e4c095e03496f05d0fec5de7a8af18b78d977beffb6874da4670293f572d11dfa81b48ce6cd0448f0a018d399d177f54eb76d77c6c17f9c36f9f255c3de0f225f9e9c6b4f23d83fc3307cf9be8ef0d2bb8d0474ceec45d7300894f4b8f11650b44ad991ba7d4322899c89f4d6ab3838575a21b0759f48fb60815c14b44203c4cb4ded1308c6d7a0ffe6df4585430d733628ae6ef6f87a03cf16fad2f6b8bcabc6be475a4b42c8d37</script>
+  <div class="hbe hbe-content">
+    <div class="hbe hbe-input hbe-input-default">
+      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
+      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">
+        <span class="hbe hbe-input-label-content hbe-input-label-content-default">输入密码，查看文章</span>
+      </label>
+    </div>
+  </div>
+</div>
+<script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
   </entry>
 </search>
